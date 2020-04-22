@@ -46,7 +46,7 @@ Main: Calls the pipeline from data loading to data writing.
 #### Input data:
 Reference image:
 
-![ref](https://user-images.githubusercontent.com/55580735/80012464-e641a000-84bc-11ea-93fc-234638cf25e6.jpg)
+<img width="535" alt="Capture" src="https://user-images.githubusercontent.com/55580735/80013047-c8c10600-84bd-11ea-9cc2-f82214872d3c.PNG">
 
 Test images:
 
