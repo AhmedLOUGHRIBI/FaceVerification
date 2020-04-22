@@ -42,7 +42,10 @@ Classifier: Classify test images to 2 classes (Same/Different person) the person
 DataWriter: Write a csv file labeling test images (Output of the pipeline).
 Main: Calls the pipeline from data loading to data writing.
 
-## Test pipeline Using a threshold of 1.1:
+## Running the pipeline:
+to do so you should download the following directory : https://drive.google.com/open?id=1PHRVgF0VYqbgCX9f8WZo9sZrZHjI9Sgi , and place it in src/model/ . I wasn’t able to upload it directly to github because of its volume.
+
+## Testing the pipeline using a threshold of 1.1:
 #### Input data:
 Reference image:
 
